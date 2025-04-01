@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.qwe {
+  font-size: xx-large;
+  text-shadow: 2px 2px 5px yellow;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: larger;
+}
+
+.asd {
+  border: 2px solid rgb(11, 30, 46);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 15px;
+  width: 80%;
+  height: 90%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  text-decoration: solid;
+}
+.as {
+  border: 2px solid rgb(11, 45, 62);
+  color: rgb(0, 0, 0);
+  padding: 15px;
+  width: 80%;
+  height: 90%;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
